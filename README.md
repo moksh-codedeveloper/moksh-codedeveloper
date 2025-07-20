@@ -10,7 +10,7 @@ Currently focused on building real-world systems with cybersecurity, full-stack 
 - 🔒 **Project AETHER** - Anomaly detection system for personal security (WIP)
 - 🧠 **Learnix** - AI-powered personal learning assistant
 - 🏥 **Hospital Management System** - Full-stack solution for clinic management
-- 🌐 **Portfolio Website** - [View it here](https://your-link.com)
+- 🌐 **Portfolio Website** - NA
 
 ---
 
